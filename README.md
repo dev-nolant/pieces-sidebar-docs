@@ -245,15 +245,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Discord Community](https://discord.gg/pieces)
 
 ---
-
-## Original Lovable Project Info
-
-**URL**: https://lovable.dev/projects/a4a90b3d-be5c-44e8-b588-add98be48df6
-
-### How to edit this code
-
-**Use Lovable**: Simply visit the [Lovable Project](https://lovable.dev/projects/a4a90b3d-be5c-44e8-b588-add98be48df6) and start prompting.
-
-**Technologies used**: Vite, TypeScript, React, shadcn-ui, Tailwind CSS
-
-Built with ❤️ using React, TypeScript, Supabase, and Vite.
